@@ -221,7 +221,7 @@ Q32.Which of the following is NOT a valid stream in Node?
 
 Q33.You have a script.js file with the single line of code shown here. What will be the output of executing script.js with the node command? 
 console.log(arguments); 
-- ReferenceError: arguments is not defined 
+- ReferenceError: arguments is not defined -----> correct
  - an empty string 
  - undefined 
  - an object representing an array that has five elements 
